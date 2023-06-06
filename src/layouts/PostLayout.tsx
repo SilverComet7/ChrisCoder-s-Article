@@ -115,12 +115,12 @@ export default function PostLayout(props: Props) {
                     alt="runjs-cool"
                     width={384}
                     height={140}
-                    src={`/static/images/runjs-cool.webp`}
+                    src={`https://user-images.githubusercontent.com/48087314/237034183-0650545b-4e43-4255-b9de-3f1685150fcd.png`}
                   />
                 </div>
 
                 <span>关注微信公众号，获取最新原创文章（首发）</span>
-                <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
+                {/* <Link href={editUrl(fileName)}>{'View on GitHub'}</Link> */}
               </div>
               <Comments frontMatter={frontMatter} />
             </div>
