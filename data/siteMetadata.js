@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'ChrisCoder | 网赚',
+  title: 'ChrisCoder | 网赚web',
   author: 'ChrisCoder',
   headerTitle: 'ChrisCoder',
   description: '专注于软件资源分享，游戏资讯，副业增收等领域，希望你可以在这找到喜欢的文章内容',
