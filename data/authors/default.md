@@ -2,7 +2,7 @@
 name: ChrisCoder
 avatar: /static/images/avatar.png
 occupation: 前端工程师
-company: 分享资讯，互帮互助。
+company: 分享资讯，互助共赢。
 email: 841531691@qq.com
 zhihu: https://www.zhihu.com/people/xiao-ma-15-3
 github: https://github.com/SilverComet7
