@@ -6,16 +6,14 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://maqib.cn',
-  siteRepo: 'https://github.com/maqi1520/nextjs-tailwind-blog',
+  siteRepo: 'https://github.com/SilverComet7/nextjs-tailwind-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'maqi1520@163.com',
-  github: 'https://github.com/maqi1520',
-  juejin: 'https://juejin.cn/user/2189882895384093',
-  zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
+  github: 'https://github.com/SilverComet7',
   locale: 'zh-CN',
-  welcome: '丰富的资讯',
+  welcome: '你所需要的资讯',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
