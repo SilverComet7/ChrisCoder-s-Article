@@ -2,10 +2,10 @@
 title: 'dnf去哪个地图搬砖收益最高？'
 date: '2023/6/8'
 lastmod: '2023/6/8'
-tags: ['DNF', '对比']
+tags: ['DNF']
 draft: false
 summary: '我现在应该搬砖哪个地下城？有没有什么其他渠道值得去搬砖？'
-images: ['https://att.colg.cn/forum/202211/29/1104528_166970605261547825.png/ori_jpg']
+images: ['https://att.colg.cn/forum/202211/29/1104528_166970484462646266.png/ori_jpg']
 layout: PostLayout
 ---
 
