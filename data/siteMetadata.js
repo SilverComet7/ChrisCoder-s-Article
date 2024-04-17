@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'ChrisCoder | 昕赚网',
+  title: 'ChrisCoder | 个人网站',
   author: 'ChrisCoder',
   headerTitle: 'ChrisCoder',
-  description: '专注于软件资源分享，游戏资讯，副业增收等领域，希望你可以在这找到喜欢的文章内容',
+  description: '专注于软件资源分享，游戏资讯，副业增收等各种领域，希望你可以在这找到喜欢的文章内容',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://chris-coder-s-article.vercel.app',
@@ -13,7 +13,7 @@ const siteMetadata = {
   email: '841531691@qq.com',
   github: 'https://github.com/SilverComet7',
   locale: 'zh-CN',
-  welcome: '网赚人的聚集地，不止于资讯',
+  welcome: '不止于资讯',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
