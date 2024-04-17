@@ -2,7 +2,7 @@
 title: 'dnf搬砖打金攻略'
 date: '2023/6/7'
 lastmod: '2023/6/7'
-tags: [DNF]
+tags: ['DNF']
 draft: false
 summary: '在 DNF 里，搬砖打金是一种常见的赚钱方式，就是通过刷副本、卖装备、交易物品等方式，获取游戏币，然后卖给其他玩家或者平台，换取人民币。DNF 搬砖打金有很多种方法，不同的方法有不同的效率、风险和收益。'
 images: ['https://files.mdnice.com/user/10834/3a62bdf6-d9dd-4392-a7e3-ed34c9a02ddf.png']
