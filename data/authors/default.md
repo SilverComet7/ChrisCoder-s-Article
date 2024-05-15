@@ -1,7 +1,7 @@
 ---
 name: ChrisCoder
 avatar: /static/images/avatar.jpg
-occupation: 前端工程师
+occupation: 全栈工程师
 company: 杭州
 email: 841531691@qq.com
 github: https://github.com/SilverComet7

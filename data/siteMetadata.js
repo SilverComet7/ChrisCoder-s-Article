@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'ChrisCoder | 个人网站',
   author: 'ChrisCoder',
   headerTitle: 'ChrisCoder',
-  description: '专注于软件资源分享，游戏资讯，副业增收等各种领域，希望你可以在这找到喜欢的文章内容',
+  description: '专注于软件资源分享，游戏资讯，副业增收等领域，希望你可以在这找到喜欢的文章内容',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://chris-coder-s-article.vercel.app',
