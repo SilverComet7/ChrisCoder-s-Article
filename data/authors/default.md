@@ -9,4 +9,4 @@ github: https://github.com/SilverComet7
 
 - 姓名：ChrisWang
 - 昵称：ChrisCoder
-- 我是一名全栈开发程序员，探索软件资源，副业增收等领域
+- 非典型全栈开发程序员
