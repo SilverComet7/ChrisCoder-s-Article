@@ -175,7 +175,7 @@ export const renderCanvas = function () {
     animate()
   }
 
-  document.addEventListener('mousemove', bindMouseMove)
+  // document.addEventListener('mousemove', bindMouseMove)
   document.addEventListener('touchstart', bindMouseMove)
   document.body.addEventListener('orientationchange', resizeCanvas)
   window.addEventListener('resize', resizeCanvas)
