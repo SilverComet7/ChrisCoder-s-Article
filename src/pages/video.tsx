@@ -6,7 +6,7 @@ import { GetStaticProps, InferGetStaticPropsType } from 'next'
 
 export const getStaticProps: GetStaticProps<{ videos: VItem[] }> = async () => {
   const videos = await getVideos()
-  console.log(videos)
+  // console.log(videos)
   return { props: { videos: JSON.parse(JSON.stringify(videos)) } }
 }
 
@@ -22,7 +22,7 @@ export default function Vodeo({ videos }: InferGetStaticPropsType<typeof getStat
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">我的B站视频</p>
         </div>
 
-        <div className="container py-12">
+        {/* <div className="container py-12">
           <section className="grid grid-cols-1 gap-10 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
             {videos.map((v) => (
               <article
@@ -115,7 +115,7 @@ export default function Vodeo({ videos }: InferGetStaticPropsType<typeof getStat
               </article>
             ))}
           </section>
-        </div>
+        </div> */}
       </div>
     </>
   )
