@@ -44,5 +44,5 @@
 
 # 参考资料
 
-https://juejin.cn/post/7316796251149090851
-https://github.com/sparrow-js/an-codeAI
+- https://juejin.cn/post/7316796251149090851
+- https://github.com/sparrow-js/an-codeAI
