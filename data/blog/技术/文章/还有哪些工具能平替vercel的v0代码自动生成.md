@@ -1,3 +1,17 @@
+---
+title: '哪些工具能平替vercel的v0代码自动生成'
+date: '2024/6/7'
+lastmod: '2024/6/7'
+tags: [技术]
+draft: false
+summary: 'AI写代码'
+images:
+  [
+    'https://raw.githubusercontent.com/SilverComet7/PicGo/main/blog20240604142706.png?token=ALO4CEVS7A54P7V5BXXI4ULGL22CW',
+  ]
+layout: PostLayout
+---
+
 # 背景
 
 随着 AI 的发展，相信作为一个会偷懒的程序员，或多或少已经用过了不少 AI 产品，诸如 ChatGPT、Bing、MJ 等等聊天，绘画工具
@@ -15,8 +29,8 @@
 
 1. 比较出名的自然是 vercel 推出的代码自动生成平台 https://v0.dev/，可以从v0 开始不断根据输入对话交互迭代生成你的页面，且可以通过命令行和 nextjs 深度集成，也能直接拷贝代码粘贴到 react 生态中
 
-举例我们输入描述（生成一个产品页）![描述](/static/images/image.png)，然后生成页面
-![生成](/static/images/image-1.png)
+举例我们输入描述（生成一个产品页）![v0产品生产描述](https://raw.githubusercontent.com/SilverComet7/PicGo/main/blog/v0产品生产描述.png?token=ALO4CEXKJZVX2W5J52VV77DGL22SG)
+，然后生成页面![20240604143229](https://raw.githubusercontent.com/SilverComet7/PicGo/main/blog/20240604143229.png?token=ALO4CET4D7DE2MM63NIBMD3GL22XA)v0 生成页面
 
 ## 随之而来的问题
 
@@ -25,7 +39,6 @@
 首先想到的是直接生成 vue 代码网站
 
 1.  直接生成 vue 代码网站 https://www.vue0.dev/
-
 2.  或者曲线救国 react 与 vue 等互转，先通过 vercel v0 生成 react 代码，再通过 react 转 vue
     这个转换网址或许有帮助 https://runjs.work/code-converter/vue-to-react
 
