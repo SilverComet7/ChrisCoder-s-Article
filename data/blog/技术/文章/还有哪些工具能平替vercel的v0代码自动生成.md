@@ -29,8 +29,8 @@ layout: PostLayout
 
 1. 比较出名的自然是 vercel 推出的代码自动生成平台 https://v0.dev/，可以从v0 开始不断根据输入对话交互迭代生成你的页面，且可以通过命令行和 nextjs 深度集成，也能直接拷贝代码粘贴到 react 生态中
 
-举例我们输入描述（生成一个产品页）![v0产品生产描述](https://raw.githubusercontent.com/SilverComet7/PicGo/main/blog/v0产品生产描述.png?token=ALO4CEXKJZVX2W5J52VV77DGL22SG)
-，然后生成页面![20240604143229](https://raw.githubusercontent.com/SilverComet7/PicGo/main/blog/20240604143229.png?token=ALO4CET4D7DE2MM63NIBMD3GL22XA)v0 生成页面
+举例我们输入描述（生成一个产品页）![v0产品生产描述](https://raw.githubusercontent.com/SilverComet7/PicGo/main/blog/v0产品生产描述.png)
+，然后生成页面![生成页面](https://cdn.jsdelivr.net/gh/SilverComet7/image-bed@main/blog/生成页面.png)
 
 ## 随之而来的问题
 
