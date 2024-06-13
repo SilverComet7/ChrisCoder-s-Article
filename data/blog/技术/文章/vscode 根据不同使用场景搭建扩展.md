@@ -38,9 +38,7 @@ layout: PostLayout
 5. python
 6. c 类 c# c++
 7. fish
-   fish
    1. leetcode
-   2.
 
 # 结语
 
