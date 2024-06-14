@@ -1,7 +1,7 @@
 ---
 title: 'vscode分场景使用'
-date: '2024/6/7'
-lastmod: '2024/6/7'
+date: '2024/6/2'
+lastmod: '2024/6/2'
 tags: [技术]
 draft: false
 summary: '扩展按场景分类'
@@ -9,7 +9,7 @@ images: ['https://cdn.jsdelivr.net/gh/SilverComet7/image-bed@main/blog/202406041
 layout: PostLayout
 ---
 
-# 分类导出
+# 分类导出扩展
 
 ![20240604151149](https://cdn.jsdelivr.net/gh/SilverComet7/image-bed@main/blog/20240604151149.png)
 
@@ -39,9 +39,5 @@ layout: PostLayout
 6. c 类 c# c++
 7. fish
    1. leetcode
-
-# 结语
-
-本文只抛砖引玉
 
 # 参考
