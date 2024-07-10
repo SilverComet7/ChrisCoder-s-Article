@@ -13,20 +13,23 @@
 1. 评论功能 - 数据库
 ✔ 2. 文章复刻回来 统一的地方 删除一些无效的github仓库 @done(24-06-18 10:19)
 
-# 定制脚手架 框架 UI 测试任选随心配
-
-1. 纯前端
-2. 纯后端
-3. 前后端一体
-1. 框架(前后/测试)  数据库  ORM配套  docker  env
-2. 每组选一个推荐方案
 
 
-# 脚手架
-# jl项目
-# uni-app  小程序项目
-# electron项目
-# next + nest
-# webgl + three.js 项目
-# docker 
+# 项目
+1.  脚手架
+   定制脚手架 框架 UI 测试任选随心配
 
+   1. 纯前端
+   2. 纯后端
+   3. 前后端一体
+   1. 框架(前后/测试)  数据库  ORM配套  docker  env
+   2. 每组选一个推荐方案
+1. jl项目
+1. uni-app  小程序项目
+1. electron项目
+1. next + nest
+1. webgl + three.js 项目
+1. docker 
+
+
+# 

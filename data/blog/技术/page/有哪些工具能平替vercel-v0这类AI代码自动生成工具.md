@@ -2,10 +2,10 @@
 title: '哪些工具能平替vercel的v0代码自动生成'
 date: '2024/6/7'
 lastmod: '2024/6/7'
-tags: [技术]
+tags: [AI]
 draft: false
 summary: 'AI写代码'
-images: []
+images: ['https://cdn.jsdelivr.net/gh/SilverComet7/image-bed@main/blog/20240710174954.png']
 layout: PostLayout
 ---
 
@@ -17,7 +17,7 @@ layout: PostLayout
 
 > 比较出名的自然是 vercel 推出的代码自动生成平台 **[v0](https://v0.dev/)**，可以从 v0 开始不断根据输入对话交互迭代生成你的页面，且可以通过命令行和 nextjs 深度集成，也能直接拷贝代码粘贴到 react 生态中
 
-举例我们输入描述（生成一个产品页）![v0产品生产描述](https://cdn.jsdelivr.net/gh/SilverComet7/image-bed@main/blog/v0产品生产描述.png)
+举例我们输入描述（生成一个产品页）![生成页面](https://cdn.jsdelivr.net/gh/SilverComet7/image-bed@main/blog/生成页面.png)
 
 # 助力开发
 

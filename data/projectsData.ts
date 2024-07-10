@@ -1,9 +1,15 @@
 const projectsData = [
   {
-    title: 'Code-Editor',
-    description: `一个纯前端的在线代码实时预览工具,支持 Less Scss JavaScript Typescript`,
-    imgSrc: '/static/images/code-editor.png',
-    href: '1',
+    title: 'yolov5-dnf',
+    description: `基于yolov5识别算法实现的DNF自动脚本`,
+    imgSrc: '/static/images/yolov5-dnf.png',
+    href: 'https://github.com/SilverComet7/yolov5-DNF',
+  },
+  {
+    title: 'ChrisWang-cli',
+    description: `自定义脚手架`,
+    imgSrc: '/static/images/ChrisWang-cli.png',
+    href: 'https://github.com/SilverComet7/ChrisWang-cli',
   },
 ]
 

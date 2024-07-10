@@ -5,7 +5,7 @@ lastmod: '2024/6/12'
 tags: [技术]
 draft: false
 summary: '学习路线'
-images: []
+images: ['https://cdn.jsdelivr.net/gh/SilverComet7/image-bed@main/blog/20240710175806.png']
 layout: PostLayout
 ---
 
