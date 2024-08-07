@@ -41,9 +41,10 @@ Visual Studio Code 拥有数百种设置、数千种扩展，以及无数种调�
    7. edit csv --- 支持 csv
    8. excel viewer --- 支持 excel
 5. python
-6. c 类 c# c++
-7. fish
+6. c 开发 c# c++
+7. 摸鱼类 fish
    1. leetcode
+   2.
 
 # 参考
 
